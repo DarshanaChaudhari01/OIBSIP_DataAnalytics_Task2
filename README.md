@@ -14,7 +14,7 @@ Customer segmentation helps businesses understand different types of customers a
 
 ## 🎯 Problem Statement  
 
-To analyze customer behavior and segment customers based on:
+To analyze customer behavior and segment customers based on:-
 
 - Income
 - Total Spending
