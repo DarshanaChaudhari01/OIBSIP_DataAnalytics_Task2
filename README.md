@@ -1,5 +1,5 @@
 # OIB-SIP Data Analytics Internship  
-## Task 1 – Customer Segmentation Using K-Means Clustering  
+## Task 2 – Customer Segmentation Using K-Means Clustering  
 
 ---
 
